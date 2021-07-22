@@ -12,17 +12,17 @@ I'm an ever learning full stack developer with love for what I do
 
 1. My weapons of choice are:
 
-*Photoshop
-*Illustrator
-*VScode
+* Photoshop
+* Illustrator
+* VScode
 
 2. I mainly work with:
 
-*HTML5
-*SCSS
-*JavaScript
-*NodeJS
-*MySQL
+* HTML5
+* SCSS
+* JavaScript
+* NodeJS
+* MySQL
 
 I'm currently starting my networking. Blog and Vlog coming soon.
 I'm located in Peru and looking to work remotely.
