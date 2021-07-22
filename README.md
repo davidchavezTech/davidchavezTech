@@ -1,6 +1,33 @@
-[![Header](https://raw.githubusercontent.com/davidchavezTech/davidchavezTech/main/banner.jpg "Header")](https://davidchavez.tech/)
+[![Header](https://raw.githubusercontent.com/davidchavezTech/davidchavezTech/main/banner.jpg "Click to visit my site!")](https://davidchavez.tech/)
 
-### Hi there 👋
+---
+
+# Hi there, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I'm an ever learning full stack developer with love for what I do
+
+---
+
+[##To see my portfolio, visit my site here.](https://davidchavez.tech/)
+
+My weapons of choice are:
+
+⋅⋅⋅Photoshop
+⋅⋅⋅Illustrator
+⋅⋅⋅VScode
+
+I mainly work with:
+
+⋅⋅⋅HTML5
+⋅⋅⋅SCSS
+⋅⋅⋅JavaScript
+⋅⋅⋅NodeJS
+⋅⋅⋅MySQL
+
+I'm currently starting my networking. Blog and Vlog coming soon.
+I'm located in Peru and looking to work remotely.
+
+Reach me at hello@davidchavez.tech
 
 <!--
 **davidchavezTech/davidchavezTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
