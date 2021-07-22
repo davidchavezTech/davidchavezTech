@@ -8,21 +8,21 @@ I'm an ever learning full stack developer with love for what I do
 
 ---
 
-[##To see my portfolio, visit my site here.](https://davidchavez.tech/)
+##[To see my portfolio, visit my site here.](https://davidchavez.tech/)
 
 My weapons of choice are:
 
-⋅⋅⋅Photoshop
-⋅⋅⋅Illustrator
-⋅⋅⋅VScode
+*Photoshop
+*Illustrator
+*VScode
 
 I mainly work with:
 
-⋅⋅⋅HTML5
-⋅⋅⋅SCSS
-⋅⋅⋅JavaScript
-⋅⋅⋅NodeJS
-⋅⋅⋅MySQL
+*⋅HTML5
+*SCSS
+*JavaScript
+*NodeJS
+*MySQL
 
 I'm currently starting my networking. Blog and Vlog coming soon.
 I'm located in Peru and looking to work remotely.
