@@ -8,17 +8,17 @@ I'm an ever learning full stack developer with love for what I do
 
 ---
 
-##[To see my portfolio, visit my site here.](https://davidchavez.tech/)
+[To see my portfolio, visit my site here.](https://davidchavez.tech/)
 
-My weapons of choice are:
+1. My weapons of choice are:
 
 *Photoshop
 *Illustrator
 *VScode
 
-I mainly work with:
+2. I mainly work with:
 
-*⋅HTML5
+*HTML5
 *SCSS
 *JavaScript
 *NodeJS
