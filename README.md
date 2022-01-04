@@ -25,7 +25,6 @@ I'm an ever learning full stack developer with love for what I do
 * MySQL
 
 I'm currently starting my networking. Blog and Vlog coming soon.
-I'm located in Peru and looking to work remotely.
 
 Reach me at hello@davidchavez.tech
 
